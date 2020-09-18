@@ -6,6 +6,8 @@ Trainig UI with React Js and typescript
 
 Desktop GIF 
 
+<img src="https://github.com/Felipeact/TypeForm-HomePage/blob/master/homepage.gif" width="50%" height="50%">
+
 
 ### 📋 What do you need!
 
